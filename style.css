@@ -1,0 +1,47 @@
+body {
+    background-color: beige; 
+}
+
+div.one {
+    height: 100%;
+    width: 50%;
+}
+
+img.one {
+    border: 10px solid brown;
+}
+
+#program1-text {
+    padding: 20px;
+}
+
+#program2-text {
+    padding: 20px;
+}
+
+img.two {
+     border: 10px solid brown;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+} 
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
