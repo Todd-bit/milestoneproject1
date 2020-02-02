@@ -2,23 +2,6 @@ body {
     background-color: beige;
 }
 
-@media only screen and (max-width: 900px){
-    [class*="col-"]{
-        width: 100%;
-        top: 50%;
-        left: 50%;
-    }
-}
- 
-#program1 {
-    display: block;
-    margin: auto;
-}
-
-#program1-text {
-    text-align: center;
-}
-
 .fa {
     padding: 20px;
     font-size: 30px;
