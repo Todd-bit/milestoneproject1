@@ -2,6 +2,11 @@ body {
     background-color: beige;
 }
 
+.jumbotron {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 .fa {
     padding: 20px;
     font-size: 30px;
